@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "flowbite": "^1.6.5",
+    "flowbite-2.0": "^2.3.0",
     "solid-js": "^1.6.10"
   }
 }
