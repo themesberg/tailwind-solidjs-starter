@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import styles from './App.module.css';
 
-import 'flowbite-2.0';
+import 'flowbite';
 
 function App() {
   return (
